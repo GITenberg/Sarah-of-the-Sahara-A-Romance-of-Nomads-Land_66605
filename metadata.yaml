@@ -1,5 +1,8 @@
 _repo: Sarah-of-the-Sahara-A-Romance-of-Nomads-Land_66605
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66605-h/images/cover.jpg
 creator:
   author:
     agent_name: Chappell, George S. (George Shepard)
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2150
     wikipedia: https://en.wikipedia.org/wiki/George_Shepard_Chappell
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66605#Sarah-of-the-Sahara-A-Romance-of-Nomads-Land
 gutenberg_issued: '2021-10-24'
 identifiers:
   gutenberg: '66605'
